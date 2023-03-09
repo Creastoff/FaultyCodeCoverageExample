@@ -1,4 +1,3 @@
-using ClassLibrary;
 using Moq;
 using Xunit;
 
